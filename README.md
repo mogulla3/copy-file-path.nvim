@@ -10,5 +10,6 @@ Simply install copy-file-path.nvim with your favourite plugin manager (e.g. vim-
 |:--|:--|
 |`:CopyRelativeFilePath`|Copy relative file path to the clipboard.|
 |`:CopyAbsoluteFilePath`|Copy absolute file path to the clipboard.|
+|`:CopyRelativeFilePathFromHome`|Copy relative file path to the clipboard.|
 |`:CopyFileName`|Copy just the file name to the clipboard.|
 |`:CopyFilePath`|Alias for `CopyRelativeFilePath`|
